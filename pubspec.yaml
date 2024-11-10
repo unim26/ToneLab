@@ -1,0 +1,29 @@
+name: tone
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  audioplayers: ^6.1.0
+  flutter:
+    sdk: flutter
+  
+  google_fonts: ^6.2.1
+  google_sign_in: ^6.2.2
+  mailer: ^6.2.0
+  sleek_circular_slider: ^2.0.1
+  sound_generator: ^0.0.11
+  syncfusion_flutter_gauges: ^27.1.58
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/
