@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tone"
+    namespace = "com.example.tonelab"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
