@@ -1,9 +1,9 @@
+import 'package:ToneLab/my_cicular_slider.dart';
+import 'package:ToneLab/my_painter.dart';
+import 'package:ToneLab/pages/info_page.dart';
 import 'package:flutter/material.dart';
 import 'package:sound_generator/sound_generator.dart';
 import 'package:sound_generator/waveTypes.dart';
-import 'package:tone/my_cicular_slider.dart';
-import 'package:tone/my_painter.dart';
-import 'package:tone/pages/info_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
